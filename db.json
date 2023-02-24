@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ceviche",
+    "precio": 30,
+    "categoria": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Tiradito",
+    "precio": 50,
+    "categoria": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Pie de Limon",
+    "precio": 30,
+    "categoria": 3
+  },
+  {
+    "id": 4,
+    "nombre": "Torta Selva Negra",
+    "precio": 30,
+    "categoria": 3
+  },
+  {
+    "id": 5,
+    "nombre": "Pisco Sour",
+    "precio": 15,
+    "categoria": 2
+  },
+  {
+    "id": 6,
+    "nombre": "Arroz Chaufa",
+    "precio": 70,
+    "categoria": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Anticuchos",
+    "precio": 100,
+    "categoria": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Jugo de Naranja",
+    "precio": 15,
+    "categoria": 2
+  },
+  {
+    "id": 9,
+    "nombre": "Machu Picchu",
+    "precio": 40,
+    "categoria": 2
+  },
+  {
+    "id": 10,
+    "nombre": "Mazamorra",
+    "precio": 30,
+    "categoria": 3
+  },
+  {
+    "id": 11,
+    "nombre": "Inka Cola",
+    "precio": 20,
+    "categoria": 2
+  },
+  {
+    "id": 12,
+    "nombre": "Chicha Morada",
+    "precio": 40,
+    "categoria": 2
+  }
+]
